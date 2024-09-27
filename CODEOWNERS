@@ -4,5 +4,6 @@
 # $ pizza generate codeowners pizza_test/
 
 .sauced.yaml @free4fun
-README.md @fatima @free4fun
-test.md @fatima
+CODEOWNERS @free4fun
+README.md @Fatima-yo @free4fun
+test.md @Fatima-yo
