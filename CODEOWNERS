@@ -1,0 +1,8 @@
+# This file is generated automatically by OpenSauced pizza-cli. DO NOT EDIT. Stay saucy!
+#
+# Generated with command:
+# $ pizza generate codeowners pizza_test/
+
+.sauced.yaml @free4fun
+README.md @fatima @free4fun
+test.md @fatima
